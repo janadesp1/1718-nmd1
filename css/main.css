@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+body{
+    color:#000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color:#435E6D;
+    font-family: pacifico;
+}
+
+h2{
+    color: #93BCD1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    height: 3px;
+    border: none;
+    background-color: #435E6D;
+}
+
+.important {
+    color:#435E6D;
+    font-weight: bold;
+}
